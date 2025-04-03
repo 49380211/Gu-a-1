@@ -20,7 +20,7 @@ public class Calculos_Personalizados : MonoBehaviour
         resultado = num1 * num2;
         Debug.Log("El resultado de la multiplicaciòn entre " + num1 + num2 + " es " + resultado);
         resultado = num1 / num2;
-        Debug.Log("El resultado de la divisiòn entre " + num1 + num2 + " es " + resultado)
+        Debug.Log("El resultado de la divisiòn entre " + num1 + num2 + " es " + resultado);
     }
 
     // Update is called once per frame
